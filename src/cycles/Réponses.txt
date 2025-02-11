@@ -1,0 +1,18 @@
+	5) Redéfinir une méthode veut dire que l'on réécrit une méthode de la classe mère
+dans la classe fille dont le nom, le type des paramètres et le type de la variable
+de retour est inchangés.
+
+	6) - toString()
+	   - getPuissance()
+	   
+	7) L'annotation @Override indique qu'une méthode utilisée est une redéfinition
+de la méthode d'une classe supérieure.
+
+	8) Sa présence montre que l'on peut utiliser la méthode venant de la classe
+mère au lieu de celle provenant de la classe fille. Oui, on peut s'en passer car
+cette annotation n'est pas indispensable, mais il est préférable de l'utiliser.
+
+	9) Voir les classes.
+	
+	10) Cet appel sert à récupérer la méthode indiquée se trouvant dans la classe
+mère "Velo".
